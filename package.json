@@ -36,7 +36,7 @@
     "graphql-tag": "^2.10.1",
     "html-to-draftjs": "^1.4.0",
     "lodash": "^4.17.11",
-    "next": "^8.0.3",
+    "next": "^9.3.2",
     "next-i18next": "^0.36.0",
     "next-with-apollo": "^3.4.0",
     "nprogress": "^0.2.0",
