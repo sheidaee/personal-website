@@ -45,7 +45,7 @@
     "react-adopt": "^0.6.0",
     "react-apollo": "^2.5.2",
     "react-dom": "^16.8.4",
-    "react-draft-wysiwyg": "^1.13.2",
+    "react-draft-wysiwyg": "^1.14.6",
     "react-icons": "^3.5.0",
     "react-render-html": "^0.6.0",
     "react-sortable-tree": "^2.6.2",
